@@ -1,0 +1,32 @@
+
+{
+    "name":"cl.rmd.cordova.dialoggps",
+    "version":"0.1.0",
+    "description":"Clipboard management plugin for Cordova/PhoneGap",
+    "cordova":{
+        "id":"cl.rmd.cordova.dialoggps",
+        "platforms":[
+            "ios",
+            "android"
+            ]
+    },
+    "repository":{
+        "type":"git",
+        "url":"git+https://github.com/AI111/cordova-dialog-gps.gitt"
+    },
+    "keywords":[
+        "clipboard",
+        "copy",
+        "paste",
+        "ecosystem:cordova",
+        "cordova-ios",
+        "cordova-android",
+        "cordova-wp8"
+    ],
+    "engines":{
+        "name":"cordova",
+        "version":">=3.0.0"
+    },
+    "author":"",
+    "license":"MIT",
+}
